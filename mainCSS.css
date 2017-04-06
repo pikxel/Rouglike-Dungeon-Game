@@ -1,0 +1,44 @@
+body,html{
+    height:100%;
+    position:relative;
+    background-color:black;
+    color:white;
+}
+.col-sm-1Customized {
+    position:relative;
+    width: 1.00%;
+    float: left;
+    height:13px;
+}
+
+.wall {
+    background-color: grey ;
+}
+.space{
+    background-color:white;
+}
+.player{
+    background-color:darkgreen;
+}
+.hidden1{
+    background-color:black;
+}
+.monster{
+    background-color:purple;
+}
+.boss{
+    background-color:rebeccapurple;
+}
+.weapon{
+    background-color:yellow;
+}
+.health{
+    background-color:darkred;
+}
+.teleport{
+    background-color:darkblue;
+}
+input{
+    border:none;
+    outline: none;
+}
